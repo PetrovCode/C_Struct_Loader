@@ -1,0 +1,25 @@
+<ObjectDescription>
+	<ClassName>IspBlockNoiseFilter_2</ClassName>
+	<Fields>
+		<Field>
+			<Name>enable</Name>
+			<Type>int</Type>
+			<Value>1</Value>
+		</Field>
+		<Field>
+			<Name>coefTable[2U]</Name>
+			<Type>short</Type>
+			<Value>null</Value>
+		</Field>
+		<Field>
+			<Name>edgeMin</Name>
+			<Type>long</Type>
+			<Value>30</Value>
+		</Field>
+		<Field>
+			<Name>edgeMax</Name>
+			<Type>long</Type>
+			<Value>40</Value>
+		</Field>
+	</Fields>
+</ObjectDescription>

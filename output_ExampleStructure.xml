@@ -1,0 +1,25 @@
+<ObjectDescription>
+	<ClassName>ExampleStructure</ClassName>
+	<Fields>
+		<Field>
+			<Name>enable</Name>
+			<Type>int</Type>
+			<Value>1</Value>
+		</Field>
+		<Field>
+			<Name>coefTable[3U]</Name>
+			<Type>short</Type>
+			<Value>null</Value>
+		</Field>
+		<Field>
+			<Name>edgeMin</Name>
+			<Type>int</Type>
+			<Value>50</Value>
+		</Field>
+		<Field>
+			<Name>edgeMax</Name>
+			<Type>int</Type>
+			<Value>60</Value>
+		</Field>
+	</Fields>
+</ObjectDescription>

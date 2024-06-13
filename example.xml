@@ -1,0 +1,20 @@
+<ObjectDescription>
+    <ClassName>ExampleStruct</ClassName>
+    <Fields>
+        <Field>
+            <Name>field1</Name>
+            <Type>int</Type>
+            <Value>10</Value>
+        </Field>
+        <Field>
+            <Name>field2</Name>
+            <Type>String</Type>
+            <Value>Hello</Value>
+        </Field>
+        <Field>
+            <Name>field3</Name>
+            <Type>boolean</Type>
+            <Value>true</Value>
+        </Field>
+    </Fields>
+</ObjectDescription>
